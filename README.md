@@ -53,3 +53,9 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=OblivionScript&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/sgomezsal/sgomezsal/output/snake.svg" alt="Snake animation" />
+
+###
