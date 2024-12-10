@@ -1,22 +1,63 @@
-<h1 align="center">Hi 👋, I'm Santiago Gomez</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h2 align="left">Hi 👋! I'm sgomezsal</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santaigogomez12" alt="santaigogomez12" /></a> </p>
+###
 
-- 🌱 I’m currently learning **Linux (command line management), HTML, CSS, JavaScript, React (JavaScript framework for building single-page applications), Bash scripting (automation and scripting), Pentesting (penetration testing), Tools for controlling and managing networks (such as network monitoring tools, traffic analysis, etc.) (networking), Python**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgomezsal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgomezsal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- ⚡ Fun fact **Did you know that you have an exceptional ability to integrate different knowledge and skills into your projects? By combining your expertise in mathematics, web development, information security, and networking, you can create unique and efficient solutions that address complex problems from multiple angles. This ability allows you to think outside the box and develop innovative solutions that others may not have considered**
+###
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/santiago-alexander-gomez-salazar-7a3aa91b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago alexander gomez salazar" height="30" width="40" /></a>
-<a href="https://instagram.com/santiagosalazar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiagosalazar24" height="30" width="40" /></a>
-<a href="https://discord.gg/santiago_4#7095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="santiago_4#7095" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+</div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santaigogomez12&show_icons=true&locale=en&layout=compact" alt="santaigogomez12" /></p>
+<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6f%2F70%2F87%2F6f7087757eae0ccf183e31e6a530b6a0.gif&f=1&nofb=1&ipt=4d192690e61801c957f06121dce48f93fdf69ee8ca0614bd4d5f93ecc1eb2efa&ipo=images"  />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santaigogomez12&show_icons=true&locale=en" alt="santaigogomez12" /></p>
+###
+
+<div align="left">
+  <a href="mailto:sgomezsalazar7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://signal.me/#eu/c7icuqr9waHJ4IDT-6RHRKqhseNFnMEhlbNZ37T-zkSkMfCv3ERJjo2jKnvK-ZTu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
+  </a>
+  <a href="t.me/sgomezsal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=OblivionScript&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sgomezsal/sgomezsal/output/snake.svg" alt="Snake animation" />
+
+###
