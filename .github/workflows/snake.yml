@@ -1,14 +1,12 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -24,6 +22,22 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
+      - name: apply grayscale filter to snake.svg
+        run: |
+          tmpfile=$(mktemp)
+          # Insert filtro feColorMatrix antes del primer <g>
+          awk '
+            BEGIN {
+              filter = "<filter id=\"bw\"><feColorMatrix type=\"matrix\" values=\"0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\"/></filter>"
+            }
+            /<svg/ {print; next}
+            /<defs>/ {print; print filter; next}
+            {print}
+          ' dist/snake.svg > "$tmpfile"
+          mv "$tmpfile" dist/snake.svg
+
+          # Aplicar el filtro a todo el contenido
+          sed -i 's/<g>/<g filter="url(#bw)">/' dist/snake.svg
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
