@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "*/12 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -14,32 +14,25 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
+      - uses: actions/checkout@v3
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
 
       - name: apply grayscale filter to snake.svg
         run: |
-          tmpfile=$(mktemp)
-          # Insert filtro feColorMatrix antes del primer <g>
-          awk '
-            BEGIN {
-              filter = "<filter id=\"bw\"><feColorMatrix type=\"matrix\" values=\"0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\"/></filter>"
-            }
-            /<svg/ {print; next}
-            /<defs>/ {print; print filter; next}
-            {print}
-          ' dist/snake.svg > "$tmpfile"
-          mv "$tmpfile" dist/snake.svg
+          file="dist/github-contribution-grid-snake.svg"
+          # Inserta filtro de escala de grises en encabezado <defs>
+          awk '/<svg/{print; print "<defs><filter id=\"bw\"><feColorMatrix type=\"matrix\" values=\"0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\"/></filter></defs>"; next}1' "$file" > tmp.svg
+          mv tmp.svg "$file"
+          # Aplica el filtro en el <g> principal
+          sed -i 's/<g /<g filter="url(#bw)" /' "$file"
 
-          # Aplicar el filtro a todo el contenido
-          sed -i 's/<g>/<g filter="url(#bw)">/' dist/snake.svg
-
-      - name: push snake.svg to the output branch
+      - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
