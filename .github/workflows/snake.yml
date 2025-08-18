@@ -17,20 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: generate snake.svg
+      - name: generate snake.svg (black & white)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
-
-      - name: apply grayscale filter to snake.svg
-        run: |
-          file="dist/github-contribution-grid-snake.svg"
-          # Inserta filtro de escala de grises en encabezado <defs>
-          awk '/<svg/{print; print "<defs><filter id=\"bw\"><feColorMatrix type=\"matrix\" values=\"0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\"/></filter></defs>"; next}1' "$file" > tmp.svg
-          mv tmp.svg "$file"
-          # Aplica el filtro en el <g> principal
-          sed -i 's/<g /<g filter="url(#bw)" /' "$file"
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#000000&color_dots=#ffffff
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
