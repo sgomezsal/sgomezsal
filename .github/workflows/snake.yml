@@ -17,12 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: generate snake.svg (bone & grey)
+      - name: generate snake.svg (dark & grey tones)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#555555&color_dots=#f5f5f5
+            dist/github-contribution-grid-snake.svg?color_snake=#111111&color_dots=#f5f5f5,#e0e0e0,#cfcfcf,#b0b0b0
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
