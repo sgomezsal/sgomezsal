@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/1828073?s=48&v=4" height="30" alt="fish logo"  />
   <img width="12" />
@@ -44,21 +44,17 @@
 
 ###
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6f%2F70%2F87%2F6f7087757eae0ccf183e31e6a530b6a0.gif&f=1&nofb=1&ipt=4d192690e61801c957f06121dce48f93fdf69ee8ca0614bd4d5f93ecc1eb2efa&ipo=images"  />
-
-###
-
 <div align="left">
   <a href="mailto:sgomezsalazar7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://signal.me/#eu/c7icuqr9waHJ4IDT-6RHRKqhseNFnMEhlbNZ37T-zkSkMfCv3ERJjo2jKnvK-ZTu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
+    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="signal logo" />
   </a>
   <a href="t.me/sgomezsal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=OblivionScript&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=OblivionScript&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="discord logo" />
 </div>
 
 ###
