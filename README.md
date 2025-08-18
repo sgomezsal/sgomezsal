@@ -59,6 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sgomezsal/sgomezsal/output/github-contribution-grid-snak.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sgomezsal/sgomezsal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
