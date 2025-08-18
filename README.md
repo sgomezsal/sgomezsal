@@ -46,15 +46,15 @@
 
 <div align="left">
   <a href="mailto:sgomezsalazar7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=555555&logoColor=ffffff&labelColor=555555&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://signal.me/#eu/c7icuqr9waHJ4IDT-6RHRKqhseNFnMEhlbNZ37T-zkSkMfCv3ERJjo2jKnvK-ZTu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="signal logo" />
+    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=555555&logoColor=ffffff&labelColor=555555&style=for-the-badge" height="35" alt="signal logo" />
   </a>
   <a href="t.me/sgomezsal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=555555&logoColor=ffffff&labelColor=555555&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=OblivionScript&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=OblivionScript&color=555555&logoColor=ffffff&labelColor=555555&style=for-the-badge" height="35" alt="discord logo" />
 </div>
 
 ###
