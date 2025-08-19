@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="./icons/lua.png" height="30" alt="lua logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
+  <img src="./icons/ssh.png" height="30" alt="ssh logo"  />
   <img width="12" />
   <img src="./icons/aws.png" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
