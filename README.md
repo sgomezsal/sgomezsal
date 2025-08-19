@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img src="./icons/raspberrypi.png" height="30" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="./icons/rust.png" height="30" alt="rust logo"  />
   <img width="12" />
