@@ -6,16 +6,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sgomezsal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="./icons/linux.png" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="./icons/nixos.png" height="30" alt="nixos logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/1828073?s=48&v=4" height="30" alt="fish logo"  />
+  <img src="./icons/fish.png" height="30" alt="fish logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img src="./icons/lua.png" height="30" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
   <img width="12" />
@@ -38,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:sgomezsalazar7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=555555&logoColor=ffffff&labelColor=555555&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
