@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo"  />
+  <img src="./icons/docker.png" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="./icons/raspberrypi.png" height="30" alt="raspberrypi logo"  />
   <img width="12" />
