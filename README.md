@@ -33,13 +33,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="./icons/python.png" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/3221291?s=48&v=4" height="30" alt="appium logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/67595261?s=48&v=4" height="30" alt="typst logo"  />
+  <img src="./icons/typst.png" height="30" alt="typst logo"  />
 </div>
 
 ###
