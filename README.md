@@ -19,9 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/6233056?s=48&v=4" height="30" alt="wireshark logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="./icons/aws.png" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="./icons/docker.png" height="30" alt="docker logo"  />
   <img width="12" />
