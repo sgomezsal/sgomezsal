@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="./icons/nixos.png" height="30" alt="nixos logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30" alt="bash logo"  />
+  <img src="./icons/bash.png" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="./icons/fish.png" height="30" alt="fish logo"  />
   <img width="12" />
