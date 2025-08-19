@@ -21,17 +21,13 @@
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/6233056?s=48&v=4" height="30" alt="wireshark logo"  />
   <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftryhackme-images.s3.amazonaws.com%2Froom-icons%2F14daecc96c42994352f7c244b08335cf.png&f=1&nofb=1&ipt=989ff0eabd3840bcfa232f12894d2e1ba859d2b77b48c55765af7c81591061d6&ipo=images" height="30" alt="burp suite logo"  />
-  <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2022%2F08%2Fmetasploit-framework-logo.svg.png&f=1&nofb=1&ipt=e9d170ec1b00867985057a6a362afaa607c3de96e68e1ee96e55db17567bcb18&ipo=images" height="30" alt="metasploit logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img src="./icons/rust.png" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="./icons/python.png" height="30" alt="python logo"  />
   <img width="12" />
