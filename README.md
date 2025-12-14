@@ -1,11 +1,5 @@
 <h2 align="left">Hi! I'm エスゴメスサル</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgomezsal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
 <div align="center">
   <img src="./icons/linux.png" height="30" alt="linux logo"  />
   <img width="12" />
