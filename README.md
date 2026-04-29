@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm エスゴメスサル</h2>
+<h2 align="left">Hi! I'm Santiago</h2>
 
 <div align="center">
   <img src="./icons/linux.png" height="30" alt="linux logo"  />
